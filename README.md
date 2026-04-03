@@ -13,7 +13,22 @@
 
  <br>
 
-  ### Aguardando apenas uma oportunidade !!!
+  ## 👋 Olá, eu sou o Jackson
+
+💻 Desenvolvedor Front-end em evolução
+
+🚀 Tecnologias:
+- HTML
+- CSS
+- JavaScript
+- React
+
+📌 Projetos em destaque:
+- Projeto Marvel
+- Projeto Mario Bros
+- Landing Page
+
+🎯 Buscando minha primeira oportunidade como desenvolvedor
 
 <div>
  
