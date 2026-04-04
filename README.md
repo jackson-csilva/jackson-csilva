@@ -1,8 +1,9 @@
 ## Bem-vindo(a) ao perfil de Jackson Fernando. 😁
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jackson-csilva&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-csilva&layout=compact&theme=tokyonight&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jackson-csilva&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-csilva&layout=compact&theme=tokyonight" />
+</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
