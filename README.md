@@ -31,8 +31,8 @@
 🎯 Buscando minha primeira oportunidade como desenvolvedor
 
 <div>
- 
+ <img src="https://github.com/user-attachments/assets/523ce22f-f809-44eb-be9b-7e3cf298f202" width="150px" style="border-radius: 50%;" />
   
-  ![Snake animation](https://github.com/jackson-csilva/jackson-csilva/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/jackson-csilva/jackson-csilva/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   
   </div>
