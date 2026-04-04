@@ -1,10 +1,9 @@
 ## Bem-vindo(a) ao perfil de Jackson Fernando. 😁
 
- <div>
-  <a href="https://github.com/jackson-csilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jackson-csilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-csilva&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jackson-csilva&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-csilva&layout=compact&theme=tokyonight&cache_seconds=1800)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
